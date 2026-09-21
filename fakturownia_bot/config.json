@@ -1,0 +1,10 @@
+{
+    "domain": "twoja-domena",
+    "buyer": {
+        "name": "Demo Logistics GmbH",
+        "nip": "DE000000000",
+        "address": "Teststrasse 1",
+        "city": "10115 Berlin",
+        "country": "DE"
+    }
+}

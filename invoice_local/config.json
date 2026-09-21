@@ -1,0 +1,18 @@
+{
+    "miejsce_wystawienia": "Miasto demonstracyjne",
+    "termin_platnosci_dni": 45,
+    "sprzedawca": {
+        "nazwa": "Transport DEMO",
+        "adres": "Przykładowa 1",
+        "miasto": "00-000 Miasto demonstracyjne",
+        "nip": "DEMO-NIP-SPRZEDAWCY",
+        "konto_pln": "DEMO — rachunek PLN",
+        "konto_eur": "DEMO — rachunek EUR"
+    },
+    "klient": {
+        "nazwa": "Zleceniodawca DEMO",
+        "adres": "Testowa 2",
+        "miasto": "00-000 Miasto demonstracyjne",
+        "NIP": "DEMO-NIP-NABYWCY"
+    }
+}

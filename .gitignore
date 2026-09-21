@@ -1,0 +1,10 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.env
+.env.*
+output/
+invoice_index.json
+my_config.json
