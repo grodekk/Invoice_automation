@@ -84,4 +84,5 @@ Program przetwarza PDF-y bezpośrednio w wybranym folderze i nadaje numery w for
 - Parsery są dopasowane do konkretnego szablonu PDF z warstwą tekstową. Inne układy oraz skany wymagają dostosowania odczytu.
 - Wersja API używa EUR, przeliczenia na PLN i terminu płatności 45 dni. Nabywca z konfiguracji jest wspólny dla przetwarzanej partii.
 - Reguła w `tax.py` zwraca `0` dla trasy UE → poza UE, a w pozostałych przypadkach, także przy braku rozpoznanego kraju, `23`.
-- Publikowane konfiguracje i przykład zawierają fikcyjne dane. Tokenów, rzeczywistych danych wpisanych do konfiguracji, zleceń, wygenerowanych faktur ani historii nie należy dodawać do commitów.
+- Publikowane konfiguracje i przykłady zawierają wyłącznie fikcyjne dane. Repozytorium nie zawiera rzeczywistych tokenów, danych konfiguracyjnych, zleceń, wygenerowanych faktur ani historii przetwarzania.
+
