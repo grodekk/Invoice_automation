@@ -1,5 +1,7 @@
 # Invoice Automation
 
+[English version](README_EN.md)
+
 Program automatyzujący wystawianie faktur na podstawie zleceń transportowych PDF. Powstał na potrzeby mojej firmy transportowej, aby ograniczyć ręczne przepisywanie danych i usprawnić fakturowanie.
 
 Projekt obsługuje zlecenia jednego kontrahenta korzystającego ze stałego szablonu. Dlatego zastosowałem bezpośredni odczyt warstwy tekstowej PDF i parsowanie danych, bez OCR.
